@@ -1,0 +1,11 @@
+Natural_Language_Processing_Laboratory_Work_1/dictionary.txt 
+Natural_Language_Processing_Laboratory_Work_1/*.pkl 
+Natural_Language_Processing_Laboratory_Work_1/*.bz2 
+Natural_Language_Processing_Laboratory_Work_1/*.zip 
+Natural_Language_Processing_Laboratory_Work_1/__pycache__/ 
+Natural_Language_Processing_Laboratory_Work_1/.venv/ 
+Natural_Language_Processing_Laboratory_Work_1/.idea/ 
+*.pyc 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.docx 
